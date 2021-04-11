@@ -1,7 +1,7 @@
 ---
 title: "Hugo Studynotes"
 date: 2020-02-05T14:53:47+02:00
-draft: true
+draft: false
 tags: ["study"," hugo"]
 categories: ["coding"]
 ---

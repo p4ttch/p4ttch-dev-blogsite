@@ -1,4 +1,5 @@
-baseurl: https://p4ttch.dev
+# baseurl: https://p4ttch.dev
+baseurl: https://jovial-bhabha-814bb8.netlify.app
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -91,7 +92,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
