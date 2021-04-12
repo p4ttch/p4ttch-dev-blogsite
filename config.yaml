@@ -38,8 +38,8 @@ params:
         emoji: 
         subtitle: A place for me to save and share my learnings.
         avatar:
-            local: local
-            src: img/avatar.png
+            local: false
+            src: /me.jpg
 
     article:
         math: false

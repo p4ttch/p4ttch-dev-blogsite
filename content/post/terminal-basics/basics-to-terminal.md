@@ -1,8 +1,8 @@
 ---
-title: "Basics to Terminal"
+title: "Basics of Terminal"
 date: 2020-11-10T21:29:12+02:00
 draft: false
-tags: ["CLI"," CMD","StudyNotes","bash", "Terminal", "Command line"]
+tags: ["CLI"," CMD","StudyNotes","Terminal", "Command line"]
 categories: ["Terminal"]
 ---
 
