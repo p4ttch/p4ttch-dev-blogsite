@@ -6,10 +6,11 @@ paginate: 5
 title: p4ttch.dev
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+# disqusShortname: hugo-theme-stack
+disqusShortname: blog.p4ttch.dev
 
-# GA Tracking ID
-googleAnalytics:
+# GA Tracking ID / have a measurment id.
+googleAnalytics: G-Q3SBP4QDKE
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl
