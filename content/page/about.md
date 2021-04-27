@@ -1,6 +1,6 @@
 ---
 title: About Me
-description: Thinker of all things.
+description: A thinker of many things.
 date: '2021-02-28'
 aliases:
   - about-us
@@ -13,7 +13,13 @@ menu:
         pre: user
 ---
 
-Hello world! My name is Paul Dudley, I'm a web developer by day and gamer by night.
+Hello World! My name is Paul. When I was 2 years old I told my mom "Mom, I want to be a artist". Fast forward 30 years and I have ended up as a front-end Developer and have been breaking code since 2006.
+
+I have mostly focused on the front-end and loved learning how far I could push the limits of CSS and building things that are normaly done in javascript. 
+
+I enjoy learning new technologies and experimenting with new languages. 
+
+Recently I have been bitten by the automation bug and have started playing around with python and Go. 
 
 My links:
 - [GitHub](https://github.com/p4ttch)
